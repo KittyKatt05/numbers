@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ListAggregatorGroovyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-29T12:38:20" hostname="LAPTOP-B1EAS5LM" time="0.261">
-  <properties/>
-  <testcase name="distinct" classname="ListAggregatorGroovyTest" time="0.261"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

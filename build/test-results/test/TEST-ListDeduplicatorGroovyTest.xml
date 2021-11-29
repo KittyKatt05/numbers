@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ListDeduplicatorGroovyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-29T12:54:25" hostname="LAPTOP-B1EAS5LM" time="0.247">
-  <properties/>
-  <testcase name="deduplicate" classname="ListDeduplicatorGroovyTest" time="0.247"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
